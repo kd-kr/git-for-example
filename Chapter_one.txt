@@ -30,7 +30,7 @@ with noted changes including a new "inside-out" positional tracking system with 
 a higher-resolution display, and a new "halo" head strap.
 
 The HTC Vive Pro received mixed reviews, with critics praising improvements in comfort and 
-ease of finish up the setting program due to the halo strap and new tracking system, but characterizing the Rift S as being only an incremental upgrade over the CV1, 
+ease of startup because of the halo strap and new tracking system, but characterizing the Rift S as being only an incremental upgrade over the CV1, 
 and noting regressions such as a lower refresh rate, and the lack of hardware adjustment for inter pupillary distance (IPD).
 
 and then he lives alive his life.
