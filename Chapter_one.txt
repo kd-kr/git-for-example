@@ -29,7 +29,7 @@ Announced in March 2019 and released that May, it is a successor to the original
 with noted changes including a new "inside-out" positional tracking system with cameras embedded inside the headset unit (similarly to its sister device, the Oculus Quest), 
 a higher-resolution display, and a new "halo" head strap.
 
-The Rift S received mixed reviews, with critics praising improvements in comfort and 
+The HTC Vive Pro received mixed reviews, with critics praising improvements in comfort and 
 ease of setup due to the halo strap and new tracking system, but characterizing the Rift S as being only an incremental upgrade over the CV1, 
 and noting regressions such as a lower refresh rate, and the lack of hardware adjustment for inter pupillary distance (IPD).
 
