@@ -1,0 +1,34 @@
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+Oculus Rift S
+Oculus Rift S logo black.svg
+Developer	Oculus VR & Lenovo
+Manufacturer	Lenovo
+Type	Virtual reality headset
+Generation	First generation
+Release date	March 20, 2019
+Retail availability	May 21, 2019
+Lifespan	2019-Present
+Introductory price	$299.99 USD, $402.99 AUD
+Display	Fast-switch LCD 2560×1440 (1280×1440 per eye) @ 80 Hz
+Sound	
+Integrated speakers
+Input	6DOF inside-out tracking through 5 built-in cameras
+Controller input	2nd generation Oculus Touch motion tracked controllers
+Camera	5 cameras
+Connectivity	DisplayPort 1.2, USB 3.0
+Online services	Oculus Store, Steam VR
+Mass	1.1 lb (500 g)
+Backward
+compatibility	Compatible with software developed for the original Oculus Rift
+Predecessor	Oculus Rift CV1
+Website	Official website
+Oculus Rift S is a virtual reality headset co-developed by Lenovo Technologies and Oculus—a brand of Facebook Technologies .
+
+Announced in March 2019 and released that May, it is a successor to the original Oculus Rift CV1 model, 
+with noted changes including a new "inside-out" positional tracking system with cameras embedded inside the headset unit (similarly to its sister device, the Oculus Quest), 
+a higher-resolution display, and a new "halo" head strap.
+
+The Rift S received mixed reviews, with critics praising improvements in comfort and 
+ease of setup due to the halo strap and new tracking system, but characterizing the Rift S as being only an incremental upgrade over the CV1, 
+and noting regressions such as a lower refresh rate, and the lack of hardware adjustment for inter pupillary distance (IPD).
